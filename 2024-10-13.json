@@ -1,0 +1,26 @@
+{
+  "name": "Bryan Davidson",
+  "age": 31,
+  "address": {
+    "street": "Ohesa Plaza",
+    "city": "Lodtilva",
+    "state": "WY",
+    "zip": "49751"
+  },
+  "contact": {
+    "phone": "(276) 492-6444",
+    "servicePhone": "800625537"
+  },
+  "birthday": "1993-11-20T02:46:27.212Z",
+  "ip": "192.59.251.176",
+  "foo": "bar",
+  "profile": {
+    "about": "Ru hivhob putvood wabajehuc orte wum rut zu ripmaace algicbez ziwgan guvkahkis ow zewucolo gadzul muuma ga otvu. Uldi cotu eceguj uwavuc et rajuh ba jih ev cij okore elaju legfaggin uroes. Leekizi doru pihak na ojior rehotope hamajo jacined tiboz no refu ja kevibden ipkit.",
+    "bio": "Tesafmef semlu oliico kup nugitlog kej lilo cuvi fekji nisosu mag hihues. Pisebij ma voguuza ti bopmeta hoacniw bu suhidgoz ih dirfutac ijovepup tagavhen im jeno. Sov pow ocosilzoz dejhewef ehnoav lubiut pilke monej sahivi kin zow upagaga. Cude ijajuna momasi malatlip koewakas upsugwic memohlan jabmosec kajef ban po ha mukezki pike reliet ibuvon lu beh."
+  },
+  "apiKey": "32d729676eb0cb72d60938d81ca0e7361b736a9a00f89e1120f812c3cc0529fe",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
