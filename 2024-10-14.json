@@ -1,0 +1,26 @@
+{
+  "name": "Terry Barrett",
+  "age": 33,
+  "address": {
+    "street": "Wepoji Park",
+    "city": "Wajinoken",
+    "state": "IA",
+    "zip": "11957"
+  },
+  "contact": {
+    "phone": "(320) 478-5804",
+    "servicePhone": "800622627"
+  },
+  "birthday": "1987-01-16T03:31:19.858Z",
+  "ip": "69.233.111.251",
+  "foo": "bar",
+  "profile": {
+    "about": "Elo wujikvo zotowoubo mah rizwaojo gu cobewu al zeuzso hobmal lobice ecbizriz cuc os bajgiw jadhigo ga hudfor. We te mozla withu canod pujevo refeki bebifboh wuw nulzo feswaj tog ica isumaciw deuhavo. Ziboz nisalbek veg gokvig op bupo nul jasisra gomunas libvav bonubne wutosho simfe. Ubim tel ofiji punrol ek johba ja lebvutzu rendubsa ufedoam uni vem tubuli. Ahmecjiz ahnah juniboha isesa omuke iriazawel jaisu tezo holisi sog cutsihu varepte.",
+    "bio": "Ru bituga cu ic ek vuliege jigulusi tanuhnu ramtedsid valaw vopla lifkik zo lovvovu wusgid izewius bo nut. Ikicim sevarzaw ifus ku se cerzi hoaju duc sozetug jivi zi wuwedtuk du huag duhram fivgirir. Cartesawi owes onugucap fosleriz ba legfeeve jek az difet ipeizlen cu nofliwig duhdabva. Govatamo fufewu sak garkaw ca agiviwic mis vajzivnum jeewi pilavbir ivlof mak jewaipo ika ibobugu waru."
+  },
+  "apiKey": "5336b848f390a1531c17e79f5967b1f1af7f27bb5407b0b80ea87f0483894ca1",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
