@@ -1,0 +1,26 @@
+{
+  "name": "Paul Castillo",
+  "age": 52,
+  "address": {
+    "street": "Nelje Circle",
+    "city": "Nasomla",
+    "state": "OH",
+    "zip": "05156"
+  },
+  "contact": {
+    "phone": "(361) 490-4977",
+    "servicePhone": "800943833"
+  },
+  "birthday": "1981-10-03T01:21:48.930Z",
+  "ip": "214.223.23.82",
+  "foo": "bar",
+  "profile": {
+    "about": "Di jo lainakev vupe no feedeol varugobo ficuc kobteace durim alreir sej gido naig fenaccet gavip gog galne. Ro dimkamu caz mof bocbojo co lu dattu vas wiwtiis ecoudoma gawoptu zumnitga. Ji av evdocad jehpom mi tu efe rucsote akcav otupir sug gebo owzo da wep gapitu. Huelirud cujat kiab ba fofpuiva kafkorav unalu zobem nodwonu caceko tiwor jofig ariese.",
+    "bio": "Fub zildabel vi buwisahul hositi cubu kaac surni ekcofso nuipnu wo junwi ajron nunej. Re cupifobow hozhonpa ojhikjo ki onuzon tuwo odwa ajji wifwufmu emjire tovikru julfij balo. Boraela hu mucbo potrinbi izgatev wipi faaz rag okawucede gefuv roh ca."
+  },
+  "apiKey": "9c9958a1b3d889f5498378bce542ac5f45263911805331ad81c046f6c38f9361",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
