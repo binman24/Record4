@@ -1,0 +1,26 @@
+{
+  "name": "Dollie Lawson",
+  "age": 25,
+  "address": {
+    "street": "Peron Avenue",
+    "city": "Izevuvhem",
+    "state": "IA",
+    "zip": "89575"
+  },
+  "contact": {
+    "phone": "(800) 595-1555",
+    "servicePhone": "800783946"
+  },
+  "birthday": "1983-07-27T12:39:39.061Z",
+  "ip": "132.14.132.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Vataketi wu faro sud gonnute cossusuge ek maf je bag wi caciti evmadwe uzoezibop naap monewiv. Huhrorlut cit za febcizoju vu fotoji wet fu vicza kuz butcav mol mo bethe zivsik kuwlugliv. Epagih ci filuwe ud mueraiho mowu corsum ersuw irlu zecda wiktov fev esaborzu jurnig fe rilifar id.",
+    "bio": "Ligso ji ariowbij nec le zoda fiku tikfavir moci ib nuifaku weguhamef palot tusve emege. Voni uf ipibel mazidtac sustu rali hulzozsi buwemmo bo bi pepih woz. Mifcuj ebepibo beswancoc jaobu vodoco ulepomnom novpi vohhekde za sec zajimku si icefajri upiawep ile cah. Cojizta no togwe ma se abe leduw izomu bavuc epagub kadud seref rek sofen gabog neda."
+  },
+  "apiKey": "cab776c3a266f572253fd83652909a48721ddc618d0343b3f499391f9beb2f76",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
