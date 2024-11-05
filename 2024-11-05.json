@@ -1,0 +1,26 @@
+{
+  "name": "Ruth Chavez",
+  "age": 43,
+  "address": {
+    "street": "Onku View",
+    "city": "Umasobla",
+    "state": "ID",
+    "zip": "36352"
+  },
+  "contact": {
+    "phone": "(374) 336-1722",
+    "servicePhone": "800731583"
+  },
+  "birthday": "1994-12-07T04:34:13.589Z",
+  "ip": "20.58.174.115",
+  "foo": "bar",
+  "profile": {
+    "about": "Al onoboba paisiko gagoumi di opbag ha migim sujoneh lahraga dot ih viguon pafci olu fal anuhob. Lowla veeci zurso cu decbufgi pimi guciag ciele ko ikoepo sefremi vu halom pesofbe pifez govta. Ihi cil kel wu hejweni sen lo nekzootu kigtoc mucof fe ma nahidam gorvel gerutij ilced.",
+    "bio": "Etakuluku amkuohu jutup wif buhzomi suvo hub bit momid goj ronpepfe lobaj ugiok fodibzu tef ewa cevseoh. Ke ic va tog zejsaf siz nuz beketok nisvol vodhudci josimod gevpe rim fuiceze tunwivfi pavesope raroc. Og verli wa hewwefu hehdiajo cim kofo pelewor gecemij cajeb zeduh waveru. Uti lebnacroc nawiji paj ba gasdu wus femse soz gabmamo oda sozak lul."
+  },
+  "apiKey": "bb8b8bf184886c62d3d3d59738f160eaf96727f4255875c0eeeecdedb903f19a",
+  "currency": {
+    "code": "WST",
+    "name": "Samoa Tala"
+  }
+}
