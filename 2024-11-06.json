@@ -1,0 +1,26 @@
+{
+  "name": "Theresa Marsh",
+  "age": 31,
+  "address": {
+    "street": "Leesi Extension",
+    "city": "Upoarce",
+    "state": "TN",
+    "zip": "38430"
+  },
+  "contact": {
+    "phone": "(228) 783-4363",
+    "servicePhone": "800366565"
+  },
+  "birthday": "1976-03-11T02:50:00.193Z",
+  "ip": "111.239.9.55",
+  "foo": "bar",
+  "profile": {
+    "about": "Ru rotvo ug sikujiw nune ba agaputlun gevehwi lefuhus nakfe eg afahez fadasa re uru. Apgemze uzusa un baholri gom cagbuz volufo an faavoab ulibimu coemu deni vuj jage ni idibifal erpi. Zarce cupo felir tuekawez kag ke noffevpo big mukur me ziresev hi. Nouve opigwo roczijit bum opzeg nijan wo zavki ba ogserte sujajla jaceah po wadol jo juve.",
+    "bio": "Baho rakidaw cohuari gome jo wovaku zika odkeib kucuz soz wohpislo kegikgus se gazjuf baf. Valar ta uv ta cigokiwe jubpom jalilu tiotzab hitgamoj do pog juwafag jof kiv. Laz kabave hoton meogidim westicmi ineje irjom fo dur ew ab buhueju nu simagu duf aguatediw vo. Ekisuco uma mulkemu riguz wo zavpewe ib lawub ravtomo iga ahsiwjug tobu dujuziwav wuldo hokucilu asu hijedbu. Cumkifep jepezki noiduda sajogfe ezeja ug rijrav comdoz cilij ge mapwaata cuhmoceh viwueki wuafdiv eh."
+  },
+  "apiKey": "dbcb9be6b8bfbf82714936e997b42a81bb51bedac2a36109db7acf2aee24c1e5",
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Republic Peso"
+  }
+}
