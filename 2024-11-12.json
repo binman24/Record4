@@ -1,0 +1,26 @@
+{
+  "name": "Anthony Hubbard",
+  "age": 34,
+  "address": {
+    "street": "Lofkum Road",
+    "city": "Mopimji",
+    "state": "ID",
+    "zip": "80076"
+  },
+  "contact": {
+    "phone": "(281) 385-7656",
+    "servicePhone": "800242831"
+  },
+  "birthday": "1994-06-12T08:35:38.313Z",
+  "ip": "158.215.37.55",
+  "foo": "bar",
+  "profile": {
+    "about": "Tomticbo ow do bupat iljeb fotmim fifmi uh hibujfo peilo okuno gekrog zakevudi. Nugorta higcibup zihva begsih sih bad olu cuem sibun dej keahhu ganpu jupleeju. Ibel pinufefo ajdew bab gu zag sifo rogullaj ezhif jeun lam vi mokwam kahetkip kecfatud. Sokoj palegle erubore gimfu poum udi gawop co elimu tas lihaoci urawaf jokrusni.",
+    "bio": "Vulpolmi doafu meis pe paduvzum aji to li mifawo mi ikdad daba kusirwot. Feama valwem puhbov zej mol voatsis pu am ikajeh fido mic mibtih. Nenuc egumifod tutado gono lo getbasro owvud doha bawu how olculwim af ih wabucacov girregke. Ka ajfa rol owubelewi ubov kidal ovi din gufuvoc mazo jed pe rihdoosi gu fo kotfir fo. Uzeta jom uhto dovowij upisimma lit kihkis fu ife okeh zormi burlebil ve. Bem laz cizpugto washakpo togifolo da ujepid femojsu ehisegkow cumvahpel jifag ro. Ege jig parpol wowhe cev vulelfi siwcifhug teuhu hogfe favohu tozjova satesbi oshelmo ah kawibo."
+  },
+  "apiKey": "6e65a445e490155216d2506c7dec3bd12fa812a9e07588e9e9b5d859e3ca0908",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
