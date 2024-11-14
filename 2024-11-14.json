@@ -1,0 +1,26 @@
+{
+  "name": "Glen McCoy",
+  "age": 56,
+  "address": {
+    "street": "Kuvuc Square",
+    "city": "Mojtoca",
+    "state": "MT",
+    "zip": "85794"
+  },
+  "contact": {
+    "phone": "(552) 893-6729",
+    "servicePhone": "800658851"
+  },
+  "birthday": "2004-03-22T06:52:32.737Z",
+  "ip": "93.8.180.200",
+  "foo": "bar",
+  "profile": {
+    "about": "Fah ug oliham kuhugde bewha zet uhfi kablurra ar horu waccop fi kewpod fih gomu afdalni. Ufofodwa weum ad hat hez kaebile mek lol mewewi sikili ikho itofiseg cikoce. Hasep bic furzesa ateulzas ohuto odabasgo hugov sizevu feda vike nukfocpa vo herri vo fakev gobgu lejdipva. Saacamu loseloas nuc vedoh dak ba ganpa vetomo towem kab koceceh kufov zon. Tupeso kezozvin lumot su pihne ejuwmur lapom cun mumecuwi wanuj ovti uciug mu godbew.",
+    "bio": "Efegupgir ro cizihiv deblam kup izvu vagziv ve taolezes agi eb fed obiviwa. Uw zowvufceb buf vu cos watafij gaj ka nicid hagu teigiho gipwarjak so gejir jeznam. Ejo imfuc luadge pibu tepzohpis mahpiji jiev soribuv marbewuro arwagaz kaj vur ri vanaramic bihtiwgiz abnu. Okusfeg mipito ihu viwmek ramog uwo zig efowusko huhrebbef masba azu ruc ursagif horra jizusu now."
+  },
+  "apiKey": "8a59be866a9c698fbd5b9183909ceb3fb484a58c61d7fd09939dd8499885b0b3",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
