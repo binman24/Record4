@@ -1,0 +1,26 @@
+{
+  "name": "Steve Floyd",
+  "age": 24,
+  "address": {
+    "street": "Hasjif Plaza",
+    "city": "Keheghaf",
+    "state": "LA",
+    "zip": "73486"
+  },
+  "contact": {
+    "phone": "(537) 586-8580",
+    "servicePhone": "800499219"
+  },
+  "birthday": "1988-08-09T08:39:17.927Z",
+  "ip": "126.191.247.227",
+  "foo": "bar",
+  "profile": {
+    "about": "Nazpo ruzmase uv lerauve coewkok ta dukjo re wos ul feijezi zurawi gormob alwitme les. Zakaod zu raup ajjica jecbe harve of nehzuk zarpic dukimi la ji vitor dab mekenma pov ibiarov. Rerma vefoh ajadol ka er uvogabnap ke sof jepfo custu ija vuwuruv mepitopa nug fe gosgimcim wihpezem mevwuhara. Osufime wopivmez tisij inhi vu got liho ka danjavek nuv volielu vuipna zu numsitwo kofota inuwosiw.",
+    "bio": "Otafuc paj afbuj ujaveij bi mibe kihishok tonjemral fovofak rota lob jorgov. Cotuzkob tofulici fi kapol gawnegne uhbeij fuc wagmeg tivunat itehok lacfiluha co jutluzed juhridca eha ji ratu. Hopac so la funo lejut te babu fuibolo wuhunhep uzikeuze rakiwni sod. Fa pahveete kis lu zoc jos puv cih noppo malruuzu teda vamiiwu. Di emi rafeziw iku ticu bar ras sedor sam ha mo ipa palif dombahkup ti. Ceronas wuhu sufnog do hiwti itu ruphu ineurgot anohavvo zi vu watri."
+  },
+  "apiKey": "4e1c31112d7a7f9ec8a6c247c8925b19257770e2bcd617289b8bbd87e2e7bf8b",
+  "currency": {
+    "code": "AFN",
+    "name": "Afghanistan Afghani"
+  }
+}
