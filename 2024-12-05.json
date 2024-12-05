@@ -1,0 +1,26 @@
+{
+  "name": "Cordelia McCormick",
+  "age": 20,
+  "address": {
+    "street": "Uwpal Place",
+    "city": "Elegkow",
+    "state": "DE",
+    "zip": "64121"
+  },
+  "contact": {
+    "phone": "(451) 643-5224",
+    "servicePhone": "800169512"
+  },
+  "birthday": "1971-03-21T06:37:31.419Z",
+  "ip": "155.239.86.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Uzihohtof bu lafcipaz jina ag egugulac ladwih faw jihevi ge ci rit pu hek lesezap ibne. Dar liprob jufru gop ku egzeaw hugwi mig cig iliju vibukta boew sefsun pow. Hezijub ker acivu vedsetze du ma epu ib dat vu pulume va hamfi. Gu folur zaher hait huugejud ennu wufdufil otofasaw dode muldosa umi keitevip.",
+    "bio": "Ongop lademe lu uwabuf vejiw pok umo uvo ridkuuz vadfi izfuteg relotil. Motogoh cewhospip weki ofolazup hu alnapa faikdu pidrupcu gevoseg vun taw asvatbe zo vad mo hodfovoz ce lasgujaf. Cura tonow cartive galomko jonrol umnuhru pofo vas isucufegu rav was titmuj nuunaaj fejug duhu enohib suulipag bazimvog."
+  },
+  "apiKey": "9b7234eb933f8da8b88907290d888ac016fe21ef775abef82f54ede46e408776",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
