@@ -1,0 +1,26 @@
+{
+  "name": "Carl Holloway",
+  "age": 45,
+  "address": {
+    "street": "Kekwi Lane",
+    "city": "Jofnacu",
+    "state": "NJ",
+    "zip": "25407"
+  },
+  "contact": {
+    "phone": "(414) 628-1713",
+    "servicePhone": "800931787"
+  },
+  "birthday": "1995-04-15T02:49:39.908Z",
+  "ip": "234.176.155.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Ra jofutobok wuvnor kes tutikka wekjolu onvotu busfajna ceki im uttub noslij vef. Ozdu pirdo ri tousbi ceaburow nawecu pesbenba wuofe zi kaca hezos zijav kafsevih nu homosuged ficug. Hawano cuci wiciber jeuhvom ti zejar lomok ecuuturid wiwjo jiloz bitijpe ihudot eztumlid hak arga.",
+    "bio": "Ro jarpenu cefepu vu adizol cadmakpid hu fa eler hocaja nosatew fenka. Sozkar roaga ecilupmep wataaco za nicoc huljuon ku wef kek anivupoz cu zibpip vihdi fuh mo coj. Vo gectina helmo ukibasnod icoda ja il fejwaf tibke kok curi ge omle folug buc."
+  },
+  "apiKey": "be77e45eb06620200292c1ac7f4fb28b51da509a8baf4f2fab89ca85822d78e6",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduras Lempira"
+  }
+}
